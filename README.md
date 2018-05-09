@@ -3,7 +3,7 @@
 
 ### Projeto
 * [Versão Inicial](https://public.tableau.com/profile/lucas.michelini.reis.de.oliveira#!/vizhome/Titanic_565/Titanic-Anlisev1)
-* [Versão Final](https://public.tableau.com/profile/lucas.michelini.reis.de.oliveira#!/vizhome/Titanic-FinalVersion/Titanic-AnliseVersoFinal)
+* [Versão Final](https://public.tableau.com/profile/lucas.michelini.reis.de.oliveira#!/vizhome/Titanic-FinalVersion/TitanicQuemforamossobreviventesdonaufrgio)
 
 ### Resumo
 
@@ -18,8 +18,8 @@
 
 ### Design
 
-- As cores rosa e a azul foram utilizadas para representar os gêneros femino e masculino respectivamente.
-- O gráfico de barras foi o tipo de visualização mais utilizado por ser de fácil compreensão.
+- As cores rosa e a azul foram utilizadas para representar os gêneros femino e masculino respectivamente, por representarem dados de categorias diferentes.
+- O gráfico de barras foi o tipo de visualização mais utilizado por ser de fácil compreensão para dados categóricos.
 - O gráfico de barras empilhadas foi utilizado para facilitar a percepção da representatividade de um subgrupo existente em um grupo.
 - Escolhi utilizar valores percentuais na maioria dos gráficos por ser de fácil compreensão.
 
